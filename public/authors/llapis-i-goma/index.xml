@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Llapis I Goma on Ludd and Guts</title>
+    <link>http://localhost:1313/authors/llapis-i-goma/</link>
+    <description>Recent content in Llapis I Goma on Ludd and Guts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Sun, 15 Jan 2023 09:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/llapis-i-goma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soc un tel de boira - Concepcio Casanova</title>
+      <link>http://localhost:1313/post-2/</link>
+      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/post-2/</guid>
+      <description>Soc un tel de boira</description>
+    </item>
+  </channel>
+</rss>

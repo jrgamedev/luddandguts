@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <ul>
+    {{ range site.RegularPages }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a> 
+        <span> by <a href="/authors/{{ .Params.authors | urlize }}">{{ .Params.authors | default "Unknown" }}</a></span>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}
