@@ -1,6 +1,6 @@
 +++
 title = 'Black Skin, Metal Masks'
-date = 2026-16-11T09:00:00-07:00
+date = 2026-11-17T09:00:00-07:00
 draft = false
 authors = "Lovebug Gramski"
 +++
