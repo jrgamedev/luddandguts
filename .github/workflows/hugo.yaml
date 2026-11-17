@@ -43,9 +43,7 @@ jobs:
           echo "$PWD/hugo-bin" >> "$GITHUB_PATH"
 
       - name: Build website
-        run: |
-          hugo --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+        run: hugo --minify
 
       - name: Upload website
         uses: actions/upload-pages-artifact@v5
